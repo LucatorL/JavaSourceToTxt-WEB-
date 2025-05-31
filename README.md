@@ -20,44 +20,16 @@ It allows users to drag & drop project folders or individual files, select which
 -   **Direct Link to Report Issues/Suggestions.**
 
 ## 📸 Screenshots
+![Captura de pantalla 2025-05-30 181149](https://github.com/user-attachments/assets/616a12b2-638c-4a08-be77-74a78fabd2f9)
 
-<!-- 
-    **INSTRUCCIONES PARA CAPTURAS DE PANTALLA:**
-    1. Toma las capturas como se describe abajo.
-    2. Sube las imágenes a tu repositorio (p. ej. en una carpeta `docs/images/`).
-    3. Reemplaza los comentarios de abajo con la sintaxis de Markdown: 
-       `![Texto alternativo de la imagen](ruta/relativa/a/la/imagen.png)`
--->
+![Captura de pantalla 2025-05-30 181247](https://github.com/user-attachments/assets/c3160dc3-85c4-42bb-86b3-ef8e401e8f5f)
 
-<!-- 
-    **Captura 1: Interfaz Principal**
-    Muestra: La página principal con la zona de arrastrar y soltar, controles de cabecera y pie de página.
-    ![Main interface of Java Unifier](path/to/your/screenshot-main-interface.png) 
--->
+![Captura de pantalla 2025-05-30 181438](https://github.com/user-attachments/assets/d898108f-e1ed-4dab-b48d-57ee2d5b1a31)
 
-<!-- 
-    **Captura 2: Modal de Selección de Archivos (Modo Múltiples Proyectos)**
-    Muestra: Modal con "Unificar Múltiples Proyectos" activado, archivos de varios proyectos, vista previa.
-    ![File selection modal in multi-project mode](path/to/your/screenshot-modal-multi-project.png) 
--->
+![Captura de pantalla 2025-05-30 181450](https://github.com/user-attachments/assets/f3376e73-bfa4-414c-b86f-28d8ac1a4993)
 
-<!-- 
-    **Captura 3: Modal de Selección de Archivos (Modo Proyecto Individual con Navegación)**
-    Muestra: Modal con "Unificar Múltiples Proyectos" desactivado, mostrando un proyecto y flechas de navegación.
-    ![File selection modal in single-project view mode with navigation](path/to/your/screenshot-modal-single-project-nav.png) 
--->
+![Captura de pantalla 2025-05-30 181514](https://github.com/user-attachments/assets/48337d4d-c973-4227-a658-ab285c14a640)
 
-<!-- 
-    **Captura 4: Modal de Añadir Contenido Manualmente**
-    Muestra: El modal para añadir contenido manualmente, con el desplegable de destino.
-    ![Manual content addition modal](path/to/your/screenshot-manual-add-modal.png) 
--->
-
-<!-- 
-    **(Opcional) Captura 5: Modal de Changelog**
-    Muestra: El diálogo del changelog.
-    ![In-app changelog modal](path/to/your/screenshot-changelog-modal.png) 
--->
 
 ## 🛠️ Tech Stack
 
