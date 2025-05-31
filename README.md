@@ -1,6 +1,8 @@
 # Java Unifier - Web Edition
 ⬇️⬇️⬇️⬇️
+
 [![Java Unifier Web](https://img.shields.io/badge/Java_Unifier_Web-%23D87093?style=for-the-badge&logo=Netlify&logoColor=white&labelColor=2F2F2F)](https://javasourcetotxtweb.netlify.app/)🌐
+
 ⬆️⬆️⬆️⬆️
 
 A modern web-based tool designed to consolidate Java project files and other text-based sources (like `.xml`, `.txt`, `.sql`) into a single, organized document. This project is a web adaptation of the original [JavaSourceToTxt application by @LucatorL](https://github.com/LucatorL/JavaSourceToTxt), bringing its core file unification functionality to the browser.
