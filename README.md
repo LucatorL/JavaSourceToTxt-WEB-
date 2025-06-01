@@ -1,10 +1,32 @@
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+<h3>🖥️ Desktop Application</h3>
+<a href="https://github.com/LucatorL/JavaSourceToTxt/releases/download/V4/UnificadorJava-4.0.jar">
+<img src="https://img.shields.io/badge/DOWNLOAD-V4.0-green?style=for-the-badge&logo=java&logoColor=white&labelColor=2E7D32&color=4CAF50" height="50"/>
+</a>
+<br>
+<a href="https://github.com/LucatorL/JavaSourceToTxt">
+<img src="https://img.shields.io/badge/REPOSITORY-SOURCE-green?style=for-the-badge&logo=github&logoColor=white&labelColor=2E7D32&color=4CAF50" height="40"/>
+</a>
+<br>
+<small>Full version with all features</small>
+</td>
+<td align="center" width="50%">
+<h3>🌐 Web Version</h3>
+<a href="https://javasourcetotxtweb.netlify.app/">
+<img src="https://img.shields.io/badge/OPEN-ONLINE-blue?style=for-the-badge&logo=netlify&logoColor=white&labelColor=1565C0&color=2196F3" height="50"/>
+</a>
+<br>
+<small>Use it directly from your browser</small>
+</td>
+</tr>
+</table>
+</div>
+
+
 # Java Unifier - Web Edition
-⬇️⬇️⬇️⬇️
-
-[![Java Unifier Web](https://img.shields.io/badge/Java_Unifier_Web-%23D87093?style=for-the-badge&logo=Netlify&logoColor=white&labelColor=2F2F2F)](https://javasourcetotxtweb.netlify.app/)🌐
-
-⬆️⬆️⬆️⬆️
-
 A modern web-based tool designed to consolidate Java project files and other text-based sources (like `.xml`, `.txt`, `.sql`) into a single, organized document. This project is a web adaptation of the original [JavaSourceToTxt application by @LucatorL](https://github.com/LucatorL/JavaSourceToTxt), bringing its core file unification functionality to the browser.
 
 It allows users to drag & drop project folders or individual files, select which ones to include, add content manually, preview the result, and download a unified text file.
